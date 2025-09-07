@@ -5,10 +5,11 @@ Objective: To develop an open-source, balanced, annotated bleeding, and non-blee
 <img width="931" height="627" alt="image" src="https://github.com/user-attachments/assets/06bd695e-c434-4da2-a634-00bb0c1612b1" />
 
 
-This project focuses on detecting internal bleeding using Wireless Capsule Endoscopy images. 
-I used MobileNetV2 for its lightweight and efficient architecture, applying transfer learning to leverage pre-trained ImageNet weights. 
-The dataset was processed with normalization and augmentation techniques to prevent overfitting. 
-The model was fine-tuned and trained using categorical crossentropy and the Adam optimizer. Evaluation was done using accuracy and confusion matrix, with a plan to include precision and recall.
+• This project focuses on detecting internal bleeding using Wireless Capsule Endoscopy images. 
+• I used MobileNetV2 for its lightweight and efficient architecture, applying transfer learning to leverage pre-trained ImageNet weights. 
+• The dataset was processed with normalization and augmentation techniques to prevent overfitting. 
+• The model was fine-tuned and trained using categorical crossentropy and the Adam optimizer. 
+• Evaluation was done using accuracy and confusion matrix, with a plan to include precision and recall.
 
 
 # Custom CNN: 
